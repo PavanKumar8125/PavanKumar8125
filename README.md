@@ -1,60 +1,83 @@
-# Hello, World! 👋
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate [Your Profession or Role] from [Your City, Country]</h3>
 
-## Welcome to My GitHub Profile 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/your-username?label=Stars" alt="stars" />
+</p>
 
-I'm [Your Name], a passionate [Your Profession or Interest] from [Your City, Country]. Here's a glimpse of what you'll find in my repositories:
+---
 
-### 🔭 Current Focus
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
+</p>
 
-- [Project 1 Name]: Brief description or purpose.
-- [Project 2 Name]: Brief description or purpose.
+---
 
-### 🌱 What I'm Learning
+### 🛠 Tech Stack & Tools
 
-- Currently diving deep into [Technology or Skill].
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /></a>
+</p>
 
-### 📫 How to Reach Me
+---
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [Your Email Address]
+### 🚀 About Me
 
-### 💬 Ask Me About
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Technology/Framework]**
+- 💬 Ask me about **[Specific skills/topics you're good at]**
+- ⚡ Fun fact: **[Something interesting about you]**
 
-- [Any specific topic or technology you're passionate about].
+---
 
-### 📚 Fun Fact
+### 📈 GitHub Stats
 
-- [Interesting tidbit about yourself or your interests].
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</p>
 
-### 🌐 Find Me Around the Web
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
-- Portfolio: [Your Portfolio Website](https://www.your-portfolio.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
-- Blog: [Your Blog](https://www.your-blog.com)
+---
 
-### 🚧 GitHub Stats
+### 🏆 GitHub Trophies
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-### 🎨 GitHub Trophies
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔗 Connect with Me
 
-### 📝 Latest Blog Posts
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/>
+  </a>
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://your-blog.com/post-1)
-- [Post 2](https://your-blog.com/post-2)
-<!-- BLOG-POST-LIST:END -->
+---
 
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
-
-
-<!---
-PavanKumar8125/PavanKumar8125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
