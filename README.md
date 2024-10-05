@@ -22,7 +22,7 @@
   <a href="#"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" /></a>
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="SQL (MySQL)" /></a>
+ <a href="#"><img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL Workbench" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /></a>
