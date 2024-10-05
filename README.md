@@ -64,14 +64,11 @@
   <a href="https://www.linkedin.com/in/pavankumar8125/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:nasinapavan675@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/>
   </a>
 </p>
 
