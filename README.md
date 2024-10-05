@@ -76,8 +76,9 @@
 
 ---
 
-### 📊 Weekly Development Breakdown
+### 🐍 Watch My Contribution Graph Eat My Code
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
+<p align="center">
+  <img src="https://github.com/PavanKumar8125/PavanKumar8125/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
