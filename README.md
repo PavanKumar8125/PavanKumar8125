@@ -33,8 +33,8 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **[DSA,FULL STACK DEVELOPEMENT]**
-- 💬 Ask me about **]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 💬 Ask me about **[How are you doing..?]**
+- ⚡ Fun fact: **[I don’t always test my code, but when I do, I do it in production. 😎]**
 
 ---
 
