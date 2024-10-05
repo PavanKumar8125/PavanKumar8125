@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/your-username?label=Stars" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=PavanKumar8125&label=Profile%20views&color=0e75b6&style=flat" alt="PavanKumar8125" />
+  <img src="https://img.shields.io/github/followers/PavanKumar8125?label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/PavanKumar8125?label=Stars" alt="stars" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKumar8125&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
