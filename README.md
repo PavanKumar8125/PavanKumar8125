@@ -83,11 +83,6 @@
 </p>
 
 
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/PavanKumar8125/github-readme-stats/blob/master/generated/overview.svg" alt="GitHub Contribution Graph" />
-</p>
 
 ### 🐍 Watch My Contribution Graph Eat My Code
 
