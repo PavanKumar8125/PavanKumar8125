@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/c++.png" alt="React" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /></a>
