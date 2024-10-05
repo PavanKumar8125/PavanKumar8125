@@ -82,3 +82,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote">
 </p>
 
+### 🐍 Watch My Contribution Graph Eat My Code
+
+<p align="center">
+  <img src="https://github.com/PavanKumar8125/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+
