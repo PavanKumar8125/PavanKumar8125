@@ -76,9 +76,9 @@
 
 ---
 
-### 🐍 Watch My Contribution Graph Eat My Code
+### 🔥 My Favorite Quote
 
 <p align="center">
-  <img src="https://github.com/PavanKumar8125/PavanKumar8125/raw/output/github-contribution-Gym-Managemnt-Frontend" alt="snake" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote">
 </p>
 
