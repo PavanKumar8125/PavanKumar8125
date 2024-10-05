@@ -87,7 +87,7 @@
 ### 🐍 Watch My Contribution Graph Eat My Code
 
 <p align="center">
-  <img src="https://github.com/PavanKumar8125/PavanKumar8125/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  ![snake gif](https://github.com/PavanKumar8125/PavanKumar8125/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 
