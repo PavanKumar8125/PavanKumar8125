@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Profession or Role] from [Your City, Country]</h3>
+<h1 align="center">Hi 👋, I'm Pavan Kumar </h1>
+<h3 align="center">A passionate Software Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
@@ -30,9 +30,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 💬 Ask me about **[Specific skills/topics you're good at]**
+- 🌱 I’m currently learning **[DSA,FULL STACK DEVELOPEMENT]**
+- 💬 Ask me about **]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
@@ -40,7 +39,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanKumar8125&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
@@ -52,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PavanKumar8125&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
