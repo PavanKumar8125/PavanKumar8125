@@ -67,7 +67,7 @@
   <a href="mailto:nasinapavan675@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/Mr_Pavan_kumar_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
   </a>
 </p>
