@@ -57,7 +57,7 @@
 <div align="center">
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/nasinapavan675/">
-    <img width="45%" src="https://leetcard.jacoblin.cool/neerajsahu14?theme=dark&font=Adamina&ext=contest" alt="LeetCode Stats"/>
+    <img width="45%" src="https://leetcard.jacoblin.cool/nasinapavan675?theme=dark&font=Adamina&ext=contest" alt="LeetCode Stats"/>
   </a>
 </div>
 
