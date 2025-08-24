@@ -52,13 +52,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 👨‍💻 Coding Profiles
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavanKumar8125&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
+<div align="center">
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/nasinapavan675/">
+    <img width="45%" src="https://leetcard.jacoblin.cool/neerajsahu14?theme=dark&font=Adamina&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</div>
 
 ### 🔗 Connect with Me
 
